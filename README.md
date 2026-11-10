@@ -1,17 +1,25 @@
-### Hi, I'm Larry Henry Jr! 👋
+# Larry Henry Jr.
 
-<!--
-**larryhenryjr/larryhenryjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**Senior Data Analyst | Data Strategist & AI Engineer**
 
+I build scalable, decision-ready analytics pipelines, forecasting models, and intelligent products for healthcare and enterprise teams. My work connects advanced analytics, machine learning, and decision intelligence to measurable business outcomes.
 
-- 🔭 I’m currently working towards earning a TensorFlow Developer Certificate.
-- 🌱 I’m currently learning TensorFlow.
-- 👯 I’m looking to collaborate on GitHub or YouTube.
-- 🤔 I’m looking for help with Deep Learning.
-- 💬 Ask me about Data Analytics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/larry-henry-jr/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a military brat, who loves to travel. I'm curious in nature.
-<br>
+- M.S. in Data Analytics, Data Science specialization (2026)
+- 10+ years across healthcare, pharmaceutical, financial, and real-estate data
+- Exploring Ph.D. programs in Computer Science with an AI/ML specialization
+- Core tools: Python, SQL, Databricks, Snowflake, Power BI, PySpark, scikit-learn, TensorFlow
 
-<img src = "https://github-readme-stats.vercel.app/api?username=larryhenryjr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+## Featured projects
+
+- [GLP-1 Demand Surge Intelligence](https://github.com/larryhenryjr/glp1-demand-surge-intelligence) — next-quarter Medicaid prescription-demand prediction with time-aware validation
+- [Revenue Horizon Forecasting](https://github.com/larryhenryjr/revenue-horizon-forecasting) — 90-day ARIMA forecasting with holdout evaluation and uncertainty intervals
+- [Customer Pattern Discovery](https://github.com/larryhenryjr/customer-pattern-discovery) — segmentation, PCA, and association-rule mining
+- [Churn Risk Modeling](https://github.com/larryhenryjr/churn-risk-modeling) — leakage-aware classification and monthly-charge modeling
+- [Sentiment Intelligence](https://github.com/larryhenryjr/sentiment-intelligence) — end-to-end BiLSTM sentiment classification across Amazon, IMDb, and Yelp reviews
+
+## Connect
+
+- [Portfolio](https://larry-henry-jr.net)
+- [LinkedIn](https://www.linkedin.com/in/larry-henry-jr/)
+
+![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=larryhenryjr&show_icons=true&theme=github_dark)

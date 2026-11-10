@@ -5,7 +5,7 @@
 I build scalable, decision-ready analytics pipelines, forecasting models, and intelligent products for healthcare and enterprise teams. My work connects advanced analytics, machine learning, and decision intelligence to measurable business outcomes.
 
 - M.S. in Data Analytics, Data Science specialization (2026)
-- 10+ years across healthcare, pharmaceutical, financial, and real-estate data
+- 15+ years across healthcare, pharmaceutical, financial, and real-estate data
 - Exploring Ph.D. programs in Computer Science with an AI/ML specialization
 - Core tools: Python, SQL, Databricks, Snowflake, Power BI, PySpark, scikit-learn, TensorFlow
 
